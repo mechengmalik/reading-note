@@ -50,9 +50,9 @@ content of table
 
 | PROJECTS                                  | LINKS                                                          |
 | ----------------------------------------- | ---------------------------------------------------------------|
-| Introduction to React and Components      | [OPEN](https://mechengmalik.github.io/reading-notes/class01)   |
-| State and Props                           | [OPEN](https://mechengmalik.github.io/reading-notes/class02)   |
-| Passing Functions as Props                | [OPEN](https://mechengmalik.github.io/reading-notes/class03)   |
-| React and Forms                           | [OPEN](https://mechengmalik.github.io/reading-notes/class04)   |
-|  Making mock and break it                 | [OPEN](https://mechengmalik.github.io/reading-notes/class05)   |
-|  NODE.JS                                  | [OPEN](https://mechengmalik.github.io/reading-notes/class06)   |
+| Introduction to React and Components      | [OPEN](class01)  |
+| State and Props                           | [OPEN](class02)   |
+| Passing Functions as Props                | [OPEN](class03)   |
+| React and Forms                           | [OPEN](class04)   |
+|  Making mock and break it                 | [OPEN](class05)   |
+|  NODE.JS                                  | [OPEN](class06)   |
