@@ -50,9 +50,9 @@ content of table
 
 | PROJECTS                                  | LINKS                                                          |
 | ----------------------------------------- | ---------------------------------------------------------------|
-| Introduction to React and Components      | [OPEN](class01)  |
-| State and Props                           | [OPEN](class02)   |
-| Passing Functions as Props                | [OPEN](class03)   |
-| React and Forms                           | [OPEN](class04)   |
-|  Making mock and break it                 | [OPEN](class05)   |
-|  NODE.JS                                  | [OPEN](class06)   |
+| Introduction to React and Components      | [OPEN](class01.md)   |
+| State and Props                           | [OPEN](class02.md)   |
+| Passing Functions as Props                | [OPEN](class03.md)   |
+| React and Forms                           | [OPEN](class04.md)   |
+|  Making mock and break it                 | [OPEN](class05.md)   |
+|  NODE.JS                                  | [OPEN](class06.md)   |
