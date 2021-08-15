@@ -57,4 +57,3 @@ content of table
 |  Making mock and break it             | [OPEN](class05.md)   |
 |  NODE.JS                              | [OPEN](class06.md)   |
 |  Rest                                 | [OPEN](class07.md)   |
-
