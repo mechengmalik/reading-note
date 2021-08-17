@@ -54,6 +54,11 @@ content of table
 | State and Props                       | [OPEN](class02.md)   |
 | Passing Functions as Props            | [OPEN](class03.md)   |
 | React and Forms                       | [OPEN](class04.md)   |
-|  Making mock and break it             | [OPEN](class05.md)   |
-|  NODE.JS                              | [OPEN](class06.md)   |
-|  Rest                                 | [OPEN](class07.md)   |
+| Making mock and break it              | [OPEN](class05.md)   |
+| NODE.JS                               | [OPEN](class06.md)   |
+| Rest                                  | [OPEN](class07.md)   |
+| APIs                                  | [OPEN](class08.md)   |
+| Functional Programming Javascript     | [OPEN](class09.md)   |
+|                                       | [OPEN](class10.md)   |
+|                                       | [OPEN](class11.md)   |
+|                                       | [OPEN](class12.md)   |
