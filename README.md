@@ -59,6 +59,6 @@ content of table
 | Rest                                  | [OPEN](class07.md)   |
 | APIs                                  | [OPEN](class08.md)   |
 | Functional Programming Javascript     | [OPEN](class09.md)   |
-|                                       | [OPEN](class10.md)   |
-|                                       | [OPEN](class11.md)   |
+| Memory Storage                        | [OPEN](class10.md)   |
+|Authentication & Authorization         | [OPEN](class11.md)   |
 |                                       | [OPEN](class12.md)   |
