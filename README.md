@@ -61,4 +61,4 @@ content of table
 | Functional Programming Javascript     | [OPEN](class09.md)   |
 | Memory Storage                        | [OPEN](class10.md)   |
 |Authentication & Authorization         | [OPEN](class11.md)   |
-|                                       | [OPEN](class12.md)   |
+| Mongo and Mongoose                    | [OPEN](class12.md)   |
