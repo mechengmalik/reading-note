@@ -62,3 +62,4 @@ content of table
 | Memory Storage                        | [OPEN](class10.md)   |
 |Authentication & Authorization         | [OPEN](class11.md)   |
 | Mongo and Mongoose                    | [OPEN](class12.md)   |
+| HTTP Status Codes                     | [OPEN](class13.md)   |
